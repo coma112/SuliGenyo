@@ -6,8 +6,6 @@
 - Memory Allocation: A memóriaterület lefoglalása az adatok számára.
 - Gen0: A rövid életű objektumok gyors memória-felszabadítási folyamata. (Garbage Collection)
 
-✅❌
-
 # Benchmark Táblázat & Eredmények
 
 Amelyik nincsen ott az elhanyagolhatónak tekinthető. 
